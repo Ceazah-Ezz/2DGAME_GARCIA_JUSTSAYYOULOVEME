@@ -28,7 +28,7 @@ public class PageManager : MonoBehaviour
         }
 
         // Show only the selected page
-        pages[pageIndex].SetActive(true); // Use "pa
+        pages[pageIndex].SetActive(true); 
         currentPage = pageIndex;
     }
 

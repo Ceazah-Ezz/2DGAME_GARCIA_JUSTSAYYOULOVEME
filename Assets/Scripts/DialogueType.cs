@@ -17,11 +17,25 @@ public class DialogueType : MonoBehaviour
 
     void Start()
     {
+        if (pageManager == null)
+        {
+            pageManager = FindObjectOfType<PageManager>();
+
+            if (pageManager == null)
+            {
+                Debug.LogError("PageManager is missing from the scene! Assign it in the Inspector.");
+                return; // Prevents further errors
+            }
+        }
+
+        // Check if textComponent is assigned
+        if (textComponent == null)
+        {
+            Debug.LogError("Text Component is missing! Assign it in the Inspector.");
+            return;
+        }
+
         textComponent.text = string.Empty;
-
-        //Find DialogueChoices script in the scene
-        dialogueChoices = FindObjectOfType<DialogueChoices>();
-
         StartDialogue();
     }
 
