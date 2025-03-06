@@ -444,11 +444,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1839059903}
   lines:
-  - "You go to work, gosh it's quite hot in the studio again\u2026"
-  - "The lights blare into your eyes, as the heat radiates all over the scene\u2026"
-  - 'Suddenly, you see the star himself: Yuref Goldwin. One of the most well-known
-    celebrities in the world!'
-  - What should you do...
+  - "Gosh it's quite hot in the studio again\u2026"
+  - "The lights blare onto my eyes, as the heat radiates all over the scene\u2026
+    I can REALLY feel the sweat pouring off my face."
+  - 'Suddenly, I see the star himself: Yuref Goldwin. One of the most well-known
+    actors in the world!'
+  - What should I do...
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 8
@@ -2705,7 +2706,7 @@ MonoBehaviour:
     closer to a tardy record!
   - "I can\u2019t repeat this.. One more time and I'm at risk of being terminated
     by my boss!"
-  - Now that I think about it.. What should you eat for breakfast?
+  - Now that I think about it.. What should I eat for breakfast?
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 2
@@ -5036,7 +5037,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1380808063}
   lines:
-  - Alright alright, I gotta go
+  - You're welcome.
+  - I gotta go now though...
   - Schedules can be very packed you know?
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
@@ -5201,8 +5203,8 @@ MonoBehaviour:
   textComponent: {fileID: 1972074372}
   lines:
   - Oh wow...
-  - I...
   - Thank you very much!..
+  - I'll get some paper for you to sign.. Uh- here!
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 18
@@ -7368,7 +7370,7 @@ MonoBehaviour:
   textComponent: {fileID: 394811977}
   lines:
   - Mister Yuref..!
-  - Uh,,, Sorry to disturb...
+  - Uhm, sorry to disturb...
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 14
@@ -8626,7 +8628,7 @@ MonoBehaviour:
   textComponent: {fileID: 543313325}
   lines:
   - Hahaha.. Of course of course
-  - I don't mind, just get a paper and I'll sign it for you
+  - I don't mind, just give me something to sign. Almost anything works
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 17
@@ -9163,9 +9165,9 @@ MonoBehaviour:
   textComponent: {fileID: 1466138749}
   lines:
   - Best to leave him be.. He's probably had a long day after all.
-  - Work was exhausting.. After long long hours of labor intensive shots you finally
-    see the clock hit 6:00 pm. I'm thankful that the director isn't as strict this
-    time around.
+  - Work was exhausting.. After long long hours of labor intensive shots I finally
+    see the clock's arms hit 6:00 pm. I'm thankful that the director isn't as strict
+    this time around.
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 10
@@ -11488,7 +11490,7 @@ MonoBehaviour:
   textComponent: {fileID: 1698064101}
   lines:
   - Thank you again...
-  - I appriciate it.
+  - I appriciate it a lot
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 20
@@ -13862,7 +13864,7 @@ MonoBehaviour:
   textComponent: {fileID: 139913203}
   lines:
   - Wooo...
-  - Okay, Let's go.
+  - Okay, let's go.
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 6
@@ -16529,7 +16531,7 @@ MonoBehaviour:
   - Why do I feel.. Unsatisfied?
   - Is an autograph not enough?
   - ...
-  - I still have a job to do
+  - I wanna BE with him more but II still have a job to do
   - I might have to deal with this...
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
@@ -17944,8 +17946,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1776077781}
   lines:
-  - Yes?..
-  - Is there an issue?
+  - Yes?
+  - Is there an issue?-
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 15
