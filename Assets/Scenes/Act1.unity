@@ -2701,11 +2701,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1831170113}
   lines:
-  - "Craaapp.. You\u2019re late for work! Gosh any second you waste in your own room
-    leads closer to a tardy record!"
-  - "You can\u2019t repeat this.. One more time you\u2019re late you\u2019re at the
-    risk of being terminated by your boss!"
-  - Now that you think about it.. What should you eat for breakfast?
+  - Craaapp.. I'm late for work! Gosh any second you waste in your own room leads
+    closer to a tardy record!
+  - "I can\u2019t repeat this.. One more time and I'm at risk of being terminated
+    by my boss!"
+  - Now that I think about it.. What should you eat for breakfast?
   textSpeed: 0.1
   pageManager: {fileID: 197888466}
   nextPageIndex: 2
@@ -6812,7 +6812,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.23500884, g: 0.22850128, b: 0.2528302, a: 0.75686276}
+  m_Color: {r: 0.6392157, g: 0.5254902, b: 0.2528302, a: 0.75686276}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -8939,7 +8939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.23500884, g: 0.22850128, b: 0.2528302, a: 0.75686276}
+  m_Color: {r: 0.6392157, g: 0.5254902, b: 0.2528302, a: 0.75686276}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -10598,7 +10598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.23500884, g: 0.22850128, b: 0.2528302, a: 0.75686276}
+  m_Color: {r: 0.6392157, g: 0.5254902, b: 0.2528302, a: 0.75686276}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -13819,7 +13819,7 @@ MonoBehaviour:
   textComponent: {fileID: 268653116}
   lines:
   - ...
-  - "Wrapped in the comfort of your bed and blanket, you sit up to check the time\u2026"
+  - "Wrapped in the comfort of my bed and blanket, I sit up to check the time\u2026"
   - .. 5:00 am?....
   - .. 5:00 AM?!!--
   textSpeed: 0.1
